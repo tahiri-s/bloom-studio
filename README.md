@@ -1,4 +1,4 @@
-
+https://www.bloomstudio.live/
 A modern React frontend for an online flower shop with a customer storefront and an admin dashboard for product management.
 
 Browse flowers and bouquets

@@ -1,18 +1,45 @@
 https://www.bloomstudio.live/
-A modern React frontend for an online flower shop with a customer storefront and an admin dashboard for product management.
+# Bloom Studio
 
-Browse flowers and bouquets
-View product details
-Shopping cart interface
-Fully responsive design
-Modern and intuitive UI 
+A modern, responsive online flower shop built with **React**, featuring a beautiful customer storefront and an admin dashboard for managing products, orders, and customer interactions.
 
-#
-Admin dashboard
-Add products
-Edit products
-Delete products
-Publish/Unpublish products
-list orders
-list feedback from users
-list reviews from users
+## Features
+
+### Customer Storefront
+
+- Browse flowers and bouquets
+- View detailed product information
+- Add products to the shopping cart(payment with card is disabled at the moment. Changing from stripe to epay)
+- Responsive design for desktop, tablet, and mobile
+
+### Admin Dashboard
+Manage the flower shop with an easy-to-use administration panel(not visible on the website)
+
+#### Product Management
+
+- Add new products
+- Edit existing products
+- Delete products
+- Publish or unpublish products
+
+#### Order Management
+
+- View customer orders
+- Track order information
+
+#### Customer Engagement
+
+- View customer feedback
+
+## Tech Stack
+
+- **Frontend:** React
+- **Styling:** CSS / Tailwind CSS 
+- **State Management:** React Hooks / Context API
+- **Routing:** React Router
+- **HTTP Client:** Axios
+
+## Responsive Design
+The application is fully responsive:
+- Desktop
+- Mobile devices
